@@ -1,6 +1,6 @@
 {
   "name": "1mposer-skills",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "All skills in github.com/1mposer/Skills.",
   "repository": "https://github.com/1mposer/Skills",
   "skills": [
@@ -8,16 +8,10 @@
     "./dev-flow",
     "./diagnose",
     "./fluid-interfaces",
-    "./grill-me",
-    "./grill-with-docs",
     "./ignite",
-    "./improve-codebase-architecture",
     "./obsidian-vault",
-    "./setup-matt-pocock-skills",
-    "./tdd",
     "./to-issues",
     "./to-prd",
-    "./triage",
     "./zoom-out"
   ]
 }
