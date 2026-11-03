@@ -1,0 +1,14 @@
+{
+  "name": "1mposer",
+  "owner": {
+    "name": "Yaas Alfalasi"
+  },
+  "description": "Personal Claude Code skills, synced across devices.",
+  "plugins": [
+    {
+      "name": "1mposer-skills",
+      "source": "./",
+      "description": "All skills in github.com/1mposer/Skills."
+    }
+  ]
+}
