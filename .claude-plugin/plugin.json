@@ -4,6 +4,7 @@
   "description": "All skills in github.com/1mposer/Skills.",
   "repository": "https://github.com/1mposer/Skills",
   "skills": [
+    "./apple-fluid-motion",
     "./design-lead",
     "./dev-flow",
     "./edit-loop",
