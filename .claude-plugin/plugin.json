@@ -1,13 +1,17 @@
 {
   "name": "1mposer-skills",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "All skills in github.com/1mposer/Skills.",
   "repository": "https://github.com/1mposer/Skills",
   "skills": [
+    "./design-lead",
     "./dev-flow",
+    "./edit-loop",
     "./fluid-interfaces",
     "./ignite",
     "./obsidian-vault",
+    "./phone-gestures",
+    "./readability-friction",
     "./zoom-out"
   ]
 }
